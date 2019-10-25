@@ -13,4 +13,4 @@ function wrapAdjective(x="*"){
   } 
 }
 
-let Calculator= 
+let Calculator= addCalculator()
